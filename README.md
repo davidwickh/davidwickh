@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### Current Learning Progress
+[![roadmap.sh](https://roadmap.sh/card/tall/64e4679cb128dce3cb6185de?variant=dark)](https://roadmap.sh)
+
 <!--
 **davidwickh/davidwickh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
